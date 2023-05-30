@@ -1,6 +1,6 @@
 # React + Redux Store
 
-# [Demo](https://serhiivovchenko.github.io/Pokemon_GO/)
+# [Demo]([https://serhiivovchenko.github.io/Pokemon_GO/](https://serhiivovchenko.github.io/React-Redux_Store/)
 
 ## Technologies Used
 
